@@ -1,2 +1,2 @@
-# msvc-cpp-sandbox
-Simple C++ CMAKE template for C++ on MSVC
+# cmake-sandbox
+Simple C++ CMAKE template
